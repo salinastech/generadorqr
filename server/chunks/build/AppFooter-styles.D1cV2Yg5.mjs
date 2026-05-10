@@ -1,0 +1,8 @@
+const AppFooter_vue_vue_type_style_index_0_scope_true_lang = 'body{margin:0}.app-footer{align-items:center;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);background:#020408;border-top:1px solid hsla(0,0%,100%,.05);margin-top:auto;padding:2.5rem 1.5rem;position:relative;width:100%;z-index:10}.footer-content{align-items:center;display:flex;flex-wrap:wrap;gap:1.5rem;justify-content:center;margin:0 auto;max-width:400px;text-align:center}.footer-info p{color:var(--text-dim,#a0aec0);font-size:.9rem;font-weight:400;margin:0}.footer-links a:after{background-color:var(--primary,#0052ff);bottom:-4px;content:"";height:1px;left:0;position:absolute;transition:width .3s ease;width:0}.footer-links a:hover{color:var(--text-main,#fff)}.footer-links a:hover:after{width:100%}@keyframes glowMovement{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}';
+
+const AppFooterStyles_D1cV2Yg5 = [
+  AppFooter_vue_vue_type_style_index_0_scope_true_lang
+];
+
+export { AppFooterStyles_D1cV2Yg5 as default };
+//# sourceMappingURL=AppFooter-styles.D1cV2Yg5.mjs.map

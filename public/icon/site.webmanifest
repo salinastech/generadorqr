@@ -1,0 +1,23 @@
+{
+    "name": "Salinas Design Bolivia",
+    "short_name": "SalinasDesign",
+    "description": "Servicios profesionales de diseño gráfico y web.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0A54",
+    "theme_color": "#130984",
+    "icons": [
+        {
+            "src": "/icon/web-app-manifest-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon/web-app-manifest-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
